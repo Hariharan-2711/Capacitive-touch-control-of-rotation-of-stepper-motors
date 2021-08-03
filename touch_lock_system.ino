@@ -5,7 +5,6 @@ int d4 = 5;
 int d5 = 4;
 int d6 = 3;
 int d7 = 2;
-char array1[] = "hello world";
 LiquidCrystal lcd(rs,en,d4,d5,d6,d7);
 int touchpin = 6;
 int touchstate = 0;
